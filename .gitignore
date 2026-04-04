@@ -31,7 +31,6 @@
 /.idea/
 /.swiftpm
 /.vs/
-/.vscode/
 /nppBackup
 
 
@@ -144,3 +143,8 @@ poetry.toml
 # emscripten
 a.out.*
 .github/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
